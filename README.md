@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
