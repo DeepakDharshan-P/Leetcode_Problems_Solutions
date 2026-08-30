@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
