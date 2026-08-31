@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
