@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
