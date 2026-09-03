@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
@@ -151,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
