@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Matrix
 |  |
@@ -133,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
@@ -329,4 +332,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
