@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Matrix
 |  |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Merge Sort
 |  |
 | ------- |
@@ -294,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
