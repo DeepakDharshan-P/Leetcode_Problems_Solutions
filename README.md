@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Depth-First Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
