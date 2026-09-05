@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
