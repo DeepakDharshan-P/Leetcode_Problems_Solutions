@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -370,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0778-swim-in-rising-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
