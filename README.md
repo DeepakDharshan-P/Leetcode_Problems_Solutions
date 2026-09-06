@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
