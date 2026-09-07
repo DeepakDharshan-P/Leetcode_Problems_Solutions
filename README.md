@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -417,5 +420,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
