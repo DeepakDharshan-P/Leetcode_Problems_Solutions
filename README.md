@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0412-fizz-buzz) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
