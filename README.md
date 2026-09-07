@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Depth-First Search
@@ -398,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0412-fizz-buzz) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
