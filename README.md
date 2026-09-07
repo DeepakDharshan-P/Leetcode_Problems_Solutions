@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
 ## Union-Find
 |  |
