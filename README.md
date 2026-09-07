@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
