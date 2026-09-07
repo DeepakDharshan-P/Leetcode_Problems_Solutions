@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Backtracking
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
