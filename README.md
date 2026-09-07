@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Backtracking
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0980-unique-paths-iii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
