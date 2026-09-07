@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0621-task-scheduler) |
 ## Linked List
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
