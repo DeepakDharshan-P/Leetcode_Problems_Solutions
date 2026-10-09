@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0198-house-robber) |
