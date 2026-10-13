@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/DeepakDharshan-P/Leetcode_Problems_Solutions/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
